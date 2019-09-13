@@ -1,0 +1,28 @@
+<svg id="profil" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.26 42.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7f7f7;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #2d7bf0;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="21.13" cy="21.13" r="21.13" transform="translate(0 0)"/>
+  <g id="Ellipse_4" data-name="Ellipse 4" class="cls-2" transform="translate(12.054 4.616)">
+    <circle class="cls-3" cx="9.04" cy="9.04" r="9.04"/>
+    <circle class="cls-4" cx="9.04" cy="9.04" r="8.04"/>
+  </g>
+  <path id="Tracé_15" data-name="Tracé 15" class="cls-2" d="M-2730.523,6606.913s-5.3-10.8,8.81-10.8,9.47,10.8,9.47,10.8" transform="translate(2742.951 -6572.832)"/>
+</svg>
